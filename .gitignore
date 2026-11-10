@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+ultimo_erro.txt
+*.log
+*.tmp
+.DS_Store
